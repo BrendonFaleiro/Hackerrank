@@ -9,3 +9,6 @@ https://www.hackerrank.com/challenges/ctci-balanced-brackets
 
 # HackerrankTries.java
 https://www.hackerrank.com/challenges/ctci-contacts
+
+# RunningMedian.java
+https://www.hackerrank.com/challenges/ctci-find-the-running-median
