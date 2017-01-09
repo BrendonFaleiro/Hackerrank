@@ -1,6 +1,9 @@
 # Hackerrank
 Some of my Hackerrank solutions
 
+# RansomNote.java
+https://www.hackerrank.com/challenges/ctci-ransom-note
+
 # BracketStack.java
 https://www.hackerrank.com/challenges/ctci-balanced-brackets
 
