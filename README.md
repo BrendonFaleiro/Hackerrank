@@ -13,5 +13,8 @@ https://www.hackerrank.com/challenges/ctci-contacts
 # RunningMedian.java
 https://www.hackerrank.com/challenges/ctci-find-the-running-median
 
+# isUniqueChars.java
+Code to check if all the characters in the string are Unique.
+
 # Coins.java
 https://www.hackerrank.com/challenges/ctci-coin-change
