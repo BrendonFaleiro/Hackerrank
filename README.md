@@ -12,3 +12,6 @@ https://www.hackerrank.com/challenges/ctci-contacts
 
 # RunningMedian.java
 https://www.hackerrank.com/challenges/ctci-find-the-running-median
+
+# Coins.java
+https://www.hackerrank.com/challenges/ctci-coin-change
